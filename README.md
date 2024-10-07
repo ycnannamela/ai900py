@@ -30,3 +30,12 @@ using es como import
 ChatGPT prompt paso a paso, como un nino, jugar ajedrez, dime un prompt para una IA que le permita a un developer junio comprender....
 o1 pone Pensando...
 Macros de Excel estaran en Python
+
+## 04102024
+README.md con imagenes poniendo la url directorio blob
+
+## 07102024
+
+Microsoft.EntityFramework Core
+Migration = creacion de clases intermedias como script para hacer los CREATE de las tablas
+https://www.linkedin.com/pulse/10-prompts-humanize-your-ai-content-unbelievable-ways-marcus-sheridan-4uw7e
