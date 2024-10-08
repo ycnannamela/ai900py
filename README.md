@@ -32,10 +32,23 @@ o1 pone Pensando...
 Macros de Excel estaran en Python
 
 ## 04102024
+
 README.md con imagenes poniendo la url directorio blob
 
 ## 07102024
 
 Microsoft.EntityFramework Core
 Migration = creacion de clases intermedias como script para hacer los CREATE de las tablas
-https://www.linkedin.com/pulse/10-prompts-humanize-your-ai-content-unbelievable-ways-marcus-sheridan-4uw7e
+
+Prompts para humanizar la IA https://www.linkedin.com/pulse/10-prompts-humanize-your-ai-content-unbelievable-ways-marcus-sheridan-4uw7e
+
+“Write for a 12-year-old. They should be able to understand this, so provide relatable information and examples, but don’t sound cheesy, as adults will be the ones actually reading this article.”
+“Use contractions, colloquialisms, and approachable language throughout the article.”
+
+## 08102024
+
+La expectativa de salarios
+T generico
+Fix this code in C#  chatgpt
+After deployment, Heroku provides a URL https://judges-portal.herokuapp.com
+
