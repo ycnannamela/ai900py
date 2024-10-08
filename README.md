@@ -53,3 +53,6 @@ Fix this code in C#  chatgpt
 
 After deployment, Heroku provides a URL https://judges-portal.herokuapp.com
 
+Test
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/practice/assessment?assessment-type=practice&assessmentId=26&practice-assessment-type=certification
+
