@@ -50,5 +50,6 @@ Prompts para humanizar la IA https://www.linkedin.com/pulse/10-prompts-humanize-
 La expectativa de salarios
 T generico
 Fix this code in C#  chatgpt
+
 After deployment, Heroku provides a URL https://judges-portal.herokuapp.com
 
