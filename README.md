@@ -56,3 +56,13 @@ After deployment, Heroku provides a URL https://judges-portal.herokuapp.com
 Test
 https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/practice/assessment?assessment-type=practice&assessmentId=26&practice-assessment-type=certification
 
+## 09102024
+
+Se puede compartir los n promtps con su respuesta con una url publica
+https://chatgpt.com/share/6706b30d-df80-800f-bca4-d7feb1a727d8
+
+
+
+## 10102024
+
+## 11102024
