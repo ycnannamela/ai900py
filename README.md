@@ -61,8 +61,23 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamenta
 Se puede compartir los n promtps con su respuesta con una url publica
 https://chatgpt.com/share/6706b30d-df80-800f-bca4-d7feb1a727d8
 
-
-
 ## 10102024
+ Windows Forms y WPF (Windows Presentation Foundation) no son lo mismo
+ WPF https://github.com/Kinnara/ModernWpf/blob/master/README.md
+El miedo superado> el controlador Rest llama al Service que tiene un judgeRepository que es una clase de tipo JpaRepository
+ public interface JudgeRepository extends JpaRepository<Judge, Long> 
+ dentro tiene un findByEmail que buscara por el nombre exacto que esta el atributo en @Entity
+ email no correo por ejemplo
+Un juez tiene casos @OneToMany(mappedBy = "judge") se anota la List<Case>
+Y en Case que es otra @Entity se anota como:
+    @ManyToOne
+    @JoinColumn(name = "judge_id")
+    private Judge judge;
+
+org.springframework.data.jpa.repository.JpaRepository   de Spring
+javax.persistence.Entity  de Java
+
 
 ## 11102024
+
+## 14102024
