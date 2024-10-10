@@ -75,14 +75,16 @@ email no correo por ejemplo
 Un juez tiene casos @OneToMany(mappedBy = "judge") se anota la List<Case>
 Y en Case que es otra @Entity se anota como:
 
-code()
+```java
     @ManyToOne
     @JoinColumn(name = "judge_id")
     private Judge judge;
+```
 
-code()
+```java
 org.springframework.data.jpa.repository.JpaRepository   de Spring
 javax.persistence.Entity  de Java
+```
 
 
 
