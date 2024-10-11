@@ -93,12 +93,17 @@ NLTK Python Natural Language Toolkit library
 BLEU Bilingual Evaluation Understudy is an algorithm for evaluating the quality of the text which has been machine-translated
 The CUDA Toolkit is a set of software tools created by NVIDIA that enables the use of GPUs (Graphics Processing Units) for tasks other than just graphics, like machine learning or complex calculations.
 Logistic = Sigmoid = Soft Step
-AWS IoT GreenGrass = AWS to edge devices to run locally at extremely low latency. 
-the most secure way to store medical images = use S3 client-side encryption with a client-side master key
-The Box Plot and Violin Plot are used to summarize multivariate distributions = forma de violin y cajitas
-Boxplots allow for a overall perception of the distribution: Median, quartiles, or outliers will be easily identified.
 
-Amazon EMR 2 options to work with Jupyter notebooks: EMR Notebook and JupyterHub. 
+👾 AWS IoT GreenGrass = AWS to edge devices to run locally at extremely low latency. 
+
+the most secure way to store medical images = use S3 client-side encryption with a client-side master key
+
+👾 The Box Plot and Violin Plot are used to summarize multivariate distributions = forma de violin y cajitas
+👾 Boxplots allow for a overall perception of the distribution: Median, quartiles, or outliers will be easily identified.
+
+💎 Amazon EMR 2 options to work with Jupyter notebooks: EMR Notebook and JupyterHub. 
 EMR notebook is a ‘serverless’ Jupyter notebook, the equations, visualizations, queries, models, code, and narrative textare saved in Amazon S3 separately from the cluster that runs the code
+
+💎 💍 🏆 🎼 🎹 🎻 👾 🎮 🃏 🎴 🎲 🎯 🀄 🎬 📝
 
 ## 14102024
