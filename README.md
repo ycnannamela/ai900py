@@ -86,9 +86,14 @@ org.springframework.data.jpa.repository.JpaRepository   de Spring
 javax.persistence.Entity  de Java
 ```
 
-
-
-
 ## 11102024
+
+A scatter/bubble plot with two axes representing two variables
+NLTK Python Natural Language Toolkit library
+BLEU Bilingual Evaluation Understudy is an algorithm for evaluating the quality of the text which has been machine-translated
+The CUDA Toolkit is a set of software tools created by NVIDIA that enables the use of GPUs (Graphics Processing Units) for tasks other than just graphics, like machine learning or complex calculations.
+Logistic = Sigmoid = Soft Step
+AWS IoT GreenGrass = AWS to edge devices to run locally at extremely low latency. 
+
 
 ## 14102024
