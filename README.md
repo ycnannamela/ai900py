@@ -107,3 +107,7 @@ EMR notebook is a ‘serverless’ Jupyter notebook, the equations, visualizatio
 💎 💍 🏆 🎼 🎹 🎻 👾 🎮 🃏 🎴 🎲 🎯 🀄 🎬 📝
 
 ## 14102024
+Para tener una sandbox Azure https://learn.microsoft.com/en-us/training/modules/optimize-your-web-apps-with-redis/4-exercise-create-redis-cache
+
+
+## 14102024
