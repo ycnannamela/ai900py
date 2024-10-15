@@ -116,10 +116,15 @@ nimda 0ctubr3.24
 Subir un proyecto local a github   1. Instalar gitbash 2. git config --global user.name   y  user.email  3. git init   git add .   git commit -m "Msj"  4. git remote add origin url-clone  5. git push -u origin master
 Snipping tool = Recortes
 https://www.examcollection.com/AZ-900.html
-
+Drive Claudio https://drive.google.com/drive/folders/1fWz1sU75wFUD5bNrIrKZTjT2g51WgmZw
 
 ## 16102024
+Los comandos de Visual studio 2022 tienen su simil en github Codespace
+dotnet ef migrations add "MigrationName"     desde directorio Persistencia
+dotnet ef database update
 
+dotnet run    directorio ClinicaMVC
 
+Azure SQL database Settings, select Query editor  para agregar registros como el SQL Server Management Studio
 
 ## 17102024
