@@ -110,8 +110,16 @@ EMR notebook is a ‘serverless’ Jupyter notebook, the equations, visualizatio
 Para tener una sandbox Azure https://learn.microsoft.com/en-us/training/modules/optimize-your-web-apps-with-redis/4-exercise-create-redis-cache
 Buscar Optimize your web applications by caching read-only data with Redis o en espanol Optimizar (el segundo)  buscar "redis cache"
 
+nimda 0ctubr3.24
+
 ## 15102024
+Subir un proyecto local a github   1. Instalar gitbash 2. git config --global user.name   y  user.email  3. git init   git add .   git commit -m "Msj"  4. git remote add origin url-clone  5. git push -u origin master
+Snipping tool = Recortes
+https://www.examcollection.com/AZ-900.html
+
 
 ## 16102024
+
+
 
 ## 17102024
