@@ -104,7 +104,7 @@ the most secure way to store medical images = use S3 client-side encryption with
 💎 Amazon EMR 2 options to work with Jupyter notebooks: EMR Notebook and JupyterHub. 
 EMR notebook is a ‘serverless’ Jupyter notebook, the equations, visualizations, queries, models, code, and narrative textare saved in Amazon S3 separately from the cluster that runs the code
 
-💎 💍  🎼 🎹 🎻 👾 🎮 🃏 🎴 🎲 🎯 🀄 🎬 📝
+💎 💍  🎼 🎹 🎻 👾 🎮 🃏  🎲 🎯 🀄 🎬 📝
 
 ## 14102024
 Para tener una sandbox Azure https://learn.microsoft.com/en-us/training/modules/optimize-your-web-apps-with-redis/4-exercise-create-redis-cache
@@ -133,6 +133,8 @@ Hay ofertas de trabajo en twitter https://x.com/jobs/
 Generate a comprenhensive SWOT analysis for Azure Devops including 5 points for each category and brief explanations.
 https://dev.azure.com/devopsaz900/
 
+🎴🎴🎴🎴 Tablero de HU
+https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process
 
 ## 17102024
 
