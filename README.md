@@ -104,7 +104,7 @@ the most secure way to store medical images = use S3 client-side encryption with
 💎 Amazon EMR 2 options to work with Jupyter notebooks: EMR Notebook and JupyterHub. 
 EMR notebook is a ‘serverless’ Jupyter notebook, the equations, visualizations, queries, models, code, and narrative textare saved in Amazon S3 separately from the cluster that runs the code
 
-💎 💍 🏆 🎼 🎹 🎻 👾 🎮 🃏 🎴 🎲 🎯 🀄 🎬 📝
+💎 💍  🎼 🎹 🎻 👾 🎮 🃏 🎴 🎲 🎯 🀄 🎬 📝
 
 ## 14102024
 Para tener una sandbox Azure https://learn.microsoft.com/en-us/training/modules/optimize-your-web-apps-with-redis/4-exercise-create-redis-cache
@@ -113,18 +113,30 @@ Buscar Optimize your web applications by caching read-only data with Redis o en 
 nimda 0ctubr3.24
 
 ## 15102024
+
+🏆 Github Codespace
 Subir un proyecto local a github   1. Instalar gitbash 2. git config --global user.name   y  user.email  3. git init   git add .   git commit -m "Msj"  4. git remote add origin url-clone  5. git push -u origin master
+Los comandos de Visual studio 2022 tienen su simil en github Codespace
+
+dotnet ef migrations add "MigrationName"     desde directorio Persistencia
+dotnet ef database update
+dotnet run    directorio ClinicaMVC
+
+Azure SQL database Settings, select Query editor  para agregar registros como el SQL Server Management Studio
+
 Snipping tool = Recortes
 https://www.examcollection.com/AZ-900.html
 Drive Claudio https://drive.google.com/drive/folders/1fWz1sU75wFUD5bNrIrKZTjT2g51WgmZw
 
 ## 16102024
-Los comandos de Visual studio 2022 tienen su simil en github Codespace
-dotnet ef migrations add "MigrationName"     desde directorio Persistencia
-dotnet ef database update
+Hay ofertas de trabajo en twitter https://x.com/jobs/
+Generate a comprenhensive SWOT analysis for Azure Devops including 5 points for each category and brief explanations.
+https://dev.azure.com/devopsaz900/
 
-dotnet run    directorio ClinicaMVC
-
-Azure SQL database Settings, select Query editor  para agregar registros como el SQL Server Management Studio
 
 ## 17102024
+
+
+## 18102024
+
+## 21102024
