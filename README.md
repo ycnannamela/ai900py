@@ -136,6 +136,10 @@ https://dev.azure.com/devopsaz900/
 🎴🎴🎴🎴 Tablero de HU
 https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process
 
+Buscar PL300 github con laboratorios de PowerBI
+
+Creacion de yaml con chatgpt Give the right yaml code to create a pipeline on https://dev.azure.com/ to compile a DJANGO project
+
 ## 17102024
 
 
