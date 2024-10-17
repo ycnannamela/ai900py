@@ -142,6 +142,10 @@ Creacion de yaml con chatgpt Give the right yaml code to create a pipeline on ht
 
 ## 17102024
 
+https://azure.github.io/Cloud-Native/30-days-of-ia-2024
+
+https://azure.github.io/Cloud-Native/Build-IA/CloudSkills/
+
 
 ## 18102024
 
