@@ -148,5 +148,8 @@ https://azure.github.io/Cloud-Native/Build-IA/CloudSkills/
 
 
 ## 18102024
+Figma
+Canva https://www.canva.com/es_es/prototipo-movil/plantillas/
+
 
 ## 21102024
