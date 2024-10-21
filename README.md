@@ -153,3 +153,15 @@ Canva https://www.canva.com/es_es/prototipo-movil/plantillas/
 
 
 ## 21102024
+
+App Services > create web app  Runtime satck NET 8
+Desde Codespace para ejecutar comandos az
+sudo apt-get update
+sudo apt-get install docker.io
+docker run -it mcr.microsoft.com/azure-cli
+az login
+ Escribir el codigo que pide 
+Ir a raiz dentro del root de docker  cd ~  
+az webapp up --name "web21oct" --resource-group "learn-f8..." --runtime "dotnet:8" 
+
+
